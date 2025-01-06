@@ -90,6 +90,7 @@
 
 
 ### Dart Web3 projects
+  * [cryptoplease-dart](https://github.com/cryptoplease/cryptoplease-dart) - Dart and Flutter apps and libraries maintained by Crypto Please team for Solana.
   * [flutter_web3_auction](https://github.com/y-pakorn/flutter_web3_auction) - A token auction website made by Flutter thats interacts with Ethereum web3 through flutter_web3 package.
 
   
